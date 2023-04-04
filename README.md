@@ -7,7 +7,7 @@ This repository provides code and material that is used in my Master's Thesis. I
 * py/ddp_util.py and formutis.py contains helper functions
 
 ## Setup
-* Create Python environment (>=3.8; 3.10 recommended) under Linux or WSL
+* Clone repo, create Python environment (>=3.8; 3.10 recommended) under Linux or WSL
 * Install requirements.txt
 * Fully unzip REM tarball in /corpora/REM/ (or download via https://zenodo.org/record/3624693)
 * Download https://huggingface.co/atzenhofer/distilroberta-base-mhg-charter-mlm into models/custom/distilroberta-base-mhg-charter-mlm
