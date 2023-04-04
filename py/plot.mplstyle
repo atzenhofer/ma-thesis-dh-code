@@ -1,0 +1,38 @@
+# see https://matplotlib.org/tutorials/introductory/customizing.html
+# adapted from https://fkaule.github.io/Python_for_Engineers/Datenvisualisierung/Matplotlib/scientific_plots.html
+
+# General settings
+mathtext.fontset: stix # most latex-y that is not Computer Modern
+font.family: STIXGeneral
+font.size: 12
+
+# Legend settings
+legend.fontsize: 14
+legend.handlelength: 2.0
+legend.fancybox: True
+
+# Tick settings
+# xtick.direction: in
+# ytick.direction: in
+# xtick.major.size: 2.0
+# xtick.minor.size: 1.0
+# ytick.major.size: 2.0
+# ytick.minor.size: 1.0
+xtick.bottom: False
+xtick.top: False
+ytick.left: False
+ytick.right: False
+xtick.labelbottom: True
+ytick.labelleft: True
+
+# Axes settings
+axes.grid: True
+axes.linewidth: 0.8
+axes.formatter.use_locale: True
+axes.formatter.use_mathtext: True
+
+# Grid settings
+grid.linewidth: 0.25
+
+# Image size settings
+figure.figsize: 5.55, 3.42
