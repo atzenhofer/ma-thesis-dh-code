@@ -1,9 +1,9 @@
 # ma-thesis-dh-code
 ## Repo Description
-This repository provides code and material that is used in my Master's Thesis. It is programmatically functional and primarily serves the exploration of data.
+This repository provides code and material that is used in my master's thesis ("Quantifying Formulaic Flexibility of Middle High German Legal Texts"). It is programmatically functional and primarily serves the exploration of data. As such, it is to be read in conjunction with the study, and vice versa.
 
 ### py
-* py/.ipynb are notebooks used for the analysis and visualization of data. Except the 0s, they are numbered according to the research questions
+* py/.ipynb are notebooks used for the analysis and visualization of data. Except 0x, they are numbered according to the research questions
 * py/ddp_util.py and formutis.py contains helper functions
 
 ## Setup
