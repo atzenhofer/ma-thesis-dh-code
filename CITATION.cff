@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use or refer to this software and data, please cite it as below."
+authors:
+- family-names: "Atzenhofer-Baumgartner"
+  given-names: "Florian"
+  orcid: "https://orcid.org/0000-0001-8157-8629"
+title: "Quantifying Formulaic Flexibility of Middle High German Legal Texts."
+version: 1.0.0
+date-released: 2023-04-01
+url: "https://github.com/atzenhofer/ma-thesis-dh-code"
