@@ -13,7 +13,7 @@ This repository provides code and material that is used in my master's thesis ("
 * Install additional dependencies depending on notebook (full requirements.txt is likely overkill).
 
 ### Optional
-#### For transforming reference corpups
+#### For transforming reference corpus
 * Fully unzip REM tarball in /corpora/REM/ (or download via https://zenodo.org/record/3624693)
 #### For custom language detection of historical German
 * Download https://huggingface.co/ERCDiDip/langdetect into models/mom-langdetect
