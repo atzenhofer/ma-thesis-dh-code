@@ -1,6 +1,8 @@
 # ma-thesis-dh-code
 ## Repository Description
-This repository provides code and material that is used in my master's thesis ("Quantifying Formulaic Flexibility of Middle High German Legal Texts"). It is programmatically functional and primarily serves the exploration of data. As such, it is to be read in conjunction with the study, and vice versa.
+This repository provides code and material that is used in my master's thesis ("Quantifying Formulaic Flexibility of Middle High German Legal Texts"). It is programmatically functional and primarily serves the exploration of data. As such, it is to be read in conjunction with the study, and vice versa. Find the text on https://doi.org/10.5281/zenodo.8141830 or https://unipub.uni-graz.at/obvugrhs/8653213.
+
+
 
 ## File Description
 ### py/
